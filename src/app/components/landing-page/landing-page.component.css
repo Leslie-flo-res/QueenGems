@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #ffe9f2 ; box-sizing: border-box;
+  }
+
+  .custom-bg{
+    background-image: url("../../../assets/images/GemsQueen.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 80vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; 
+    
+  }
